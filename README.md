@@ -1,2 +1,0 @@
-# Jomari
-DSA-nickname
